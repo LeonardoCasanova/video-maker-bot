@@ -1,0 +1,19 @@
+{
+  "name": "video-maker-bot",
+  "version": "1.0.0",
+  "description": "Criação de robôs que buscam, criam e editam vídeos para o YouTube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonardoCasanova/video-maker-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonardoCasanova/video-maker-bot/issues"
+  },
+  "homepage": "https://github.com/LeonardoCasanova/video-maker-bot#readme"
+}
